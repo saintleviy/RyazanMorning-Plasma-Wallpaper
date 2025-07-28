@@ -1,0 +1,25 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Saint Leviy",
+                "Name[ru]": "Saint Leviy",
+                "Name[uk]": "Saint Leviy"
+            }
+        ],
+        "Id": "RyazanMorning",
+        "License": "LGPLv3",
+        "Name": "Ryazan Morning",
+        "Name[ar]": "صَباح ريازان",
+        "Name[az]": "Ryazan Səhəri",
+        "Name[bg]": "Рязанско утро",
+        "Name[ca]": "Matí de Riazan",
+        "Name[de]": "Rjasaner Morgen",
+        "Name[el]": "Πρωί στη Ρυαζάν",
+        "Name[en_GB]": "Ryazan Morning",
+        "Name[es]": "Mañana en Riazán",
+        "Name[fr]": "Matin à Riazan",
+        "Name[ru]": "Рязанское утро",
+        "Name[uk]": "Рязанський ранок"
+    }
+}
